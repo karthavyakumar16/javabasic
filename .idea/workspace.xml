@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="470aa905-a2ee-4a78-abe0-f828edc3ff9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javabasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/account/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/account/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arthemetic/Arthemetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arthemetic/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank1/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank1/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/FoeLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/model/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student/service/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/model/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/model/OTP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/model/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/service/OTPService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/service/SwiggyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swiggy/service/SwiggyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2hRvkVWK6g5yGgmaMZHfWD1IFAa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountTest.executor": "Run",
+    "Application.Arthemetic.executor": "Run",
+    "Application.FoeLoop2.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.IfCondition.executor": "Run",
+    "Application.LoginTest.executor": "Run",
+    "Application.StudentTest.executor": "Run",
+    "Application.SwiggyTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Likhita/IdeaProjects/javabasic/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="FoeLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.FoeLoop2" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.ForLoop" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bank1.LoginTest" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="student.service.StudentTest" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="student.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwiggyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swiggy.service.SwiggyTest" />
+      <module name="javabasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swiggy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.LoginTest" />
+        <item itemvalue="Application.SwiggyTest" />
+        <item itemvalue="Application.FoeLoop2" />
+        <item itemvalue="Application.ForLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="470aa905-a2ee-4a78-abe0-f828edc3ff9f" name="Changes" comment="" />
+      <created>1717569850641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717569850641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
